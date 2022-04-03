@@ -1,2 +1,2 @@
 # odin-recipes
-HTML project
+Odin Project course making a recipe page using HTML 
